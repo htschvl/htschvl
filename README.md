@@ -45,11 +45,6 @@ Open to remote opportunities.
 </p>
 
 <p align="center">
-  <strong>Product Ownership</strong><br/>
-  <code>0‑to‑1 builds</code> <code>PRDs</code> <code>Technical specs</code> <code>Backlog</code> <code>Agile delivery</code>
-</p>
-
-<p align="center">
   <strong>Smart Contracts</strong><br/>
   <code>Solidity</code> <code>ERC‑20/721/721A</code> <code>Diamond (EIP‑2535)</code> <code>Hardhat</code> <code>Auditing</code>
 </p>
