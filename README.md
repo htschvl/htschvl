@@ -16,9 +16,11 @@
 <br/>
 <br/>
 
-![Open to Work](https://img.shields.io/badge/-Open%20to%20Work-22c55e?style=for-the-badge)
-</div>
+<p align="center">
 
+![Open to Work](https://img.shields.io/badge/OPEN_TO_WORK-22c55e?style=for-the-badge&logo=linkedin&logoColor=white)
+
+</p>
 ---
 
 ## About
