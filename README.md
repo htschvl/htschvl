@@ -39,14 +39,23 @@ Open to remote opportunities.
 
 ## What I Do
 
-```
-Product Ownership   →  0-to-1 builds · PRDs · Technical specs · Backlog · Agile delivery
-Smart Contracts     →  Solidity · ERC-20/721/721A · Diamond (EIP-2535) · Hardhat · Auditing
-Blockchain Infra    →  EVM · Substrate/Polkadot · Fireblocks · Multi-chain deployment
-DeFi                →  Curve/Balancer bribe strategies · Liquidity governance · On-chain analytics
-Backend             →  Python · Go · TypeScript · Web3.py · REST APIs · Clean Architecture
-AI & Automation     →  AI Agents · Python bots · Process automation · On-chain data pipelines
-```
+- **Product Ownership**  
+  - 0-to-1 builds · PRDs · Technical specs · Backlog · Agile delivery
+
+- **Smart Contracts**  
+  - Solidity · ERC-20/721/721A · Diamond (EIP-2535) · Hardhat · Auditing
+
+- **Blockchain Infra**  
+  - EVM · Substrate/Polkadot · Fireblocks · Multi-chain deployment
+
+- **DeFi**  
+  - Curve/Balancer bribe strategies · Liquidity governance · On-chain analytics
+
+- **Backend**  
+  - Python · Go · TypeScript · Web3.py · REST APIs · Clean Architecture
+
+- **AI & Automation**  
+  - AI Agents · Python bots · Process automation · On-chain data pipelines
 ---
 
 ## Selected Work
