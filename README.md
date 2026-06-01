@@ -69,6 +69,8 @@ Open to remote opportunities.
   <code>AI Agents</code> <code>Python bots</code> <code>Process automation</code> <code>On‑chain data pipelines</code>
 </p>
 
+---
+
 ## Selected Work
 
 | | Project | Role | Impact |
