@@ -24,7 +24,9 @@ I'm a **Technical PM/PO and Blockchain Architect** at the intersection of produc
 
 My background is technical-first: I started as a developer, which means I don't translate between product and engineering — I operate in both. I write specs that devs execute without back-and-forth, architect smart contract systems from scratch, and own delivery in high-ambiguity environments where there's no one else to close the loop.
 
-Currently building a tokenization product suite at **RioCryptoHub** &nbsp;·&nbsp; 📍 Rio de Janeiro, Brazil &nbsp;·&nbsp; Open to remote roles
+Currently building a tokenization product suite at **RioCryptoHub** &nbsp;·&nbsp; 📍 Rio de Janeiro, Brazil &nbsp;·&nbsp; 
+
+Open to remote roles
 
 ---
 
