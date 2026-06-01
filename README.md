@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:9333EA&height=210&section=header&text=Clarice%20Hatischvili&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Technical%20PM%20%7C%20Blockchain%20Architect%20%7C%20Web3%20Builder&descAlignY=58&descSize=18&descColor=E9D5FF)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:9333EA&height=210&section=header&text=Clarice%20Hatischvili&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Technical%20PM%20%7C%20Blockchain%20Expert%20%7C%20Web3%20Builder&descAlignY=58&descSize=18&descColor=E9D5FF)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=720&lines=Technical+PM+who+actually+ships+code;4%2B+years+building+Web3+in+production;Stablecoins+%E2%80%A2+DeFi+%E2%80%A2+Tokenization;Currently+open+to+new+opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
 
