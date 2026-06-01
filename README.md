@@ -14,13 +14,9 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5521996963575)&nbsp;
 
 <br/>
+<br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20Work-22c55e?style=for-the-badge" />
-</p>
-
-**Seeking:** Technical PM &nbsp;·&nbsp; Blockchain Architect &nbsp;·&nbsp; Web3 Tech Lead &nbsp;·&nbsp; Remote-friendly
-
+![Open to Work](https://img.shields.io/badge/-Open%20to%20Work-22c55e?style=for-the-badge)
 </div>
 
 ---
