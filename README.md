@@ -93,7 +93,6 @@ AI & Automation     →  AI Agents · Python bots · Process automation · On-ch
 
 ![Profile Views](https://komarev.com/ghpvc/?username=htschvl&style=flat-square)
 
-
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=htschvl&theme=github-dark"
   width="100%"
