@@ -94,8 +94,8 @@ AI & Automation     →  AI Agents · Python bots · Process automation · On-ch
 ![Profile Views](https://komarev.com/ghpvc/?username=htschvl&style=flat-square)
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=htschvl&theme=github-dark"
-  width="100%"
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=htschvl&layout=compact"
+  alt="Top Languages"
 />
 
 **4+ years** building Web3 products  
