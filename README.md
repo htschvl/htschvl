@@ -10,6 +10,7 @@
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/htschvl)&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/htschvl)&nbsp;
 [![Email](https://img.shields.io/badge/cdmhda%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:cdmhda@gmail.com)&nbsp;
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5521996963575)&nbsp;
 ![Open to Work](https://img.shields.io/badge/-Open%20to%20Work-22c55e?style=flat-square)
 
 **Seeking:** Technical PM &nbsp;·&nbsp; Blockchain Architect &nbsp;·&nbsp; Web3 Tech Lead &nbsp;·&nbsp; Remote-friendly
