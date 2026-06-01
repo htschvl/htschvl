@@ -92,8 +92,9 @@ AI & Automation     →  AI Agents · Python bots · Process automation · On-ch
 ## Stats
 
 <div align="center">
-
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=htschvl&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" alt="Top Languages" />
 ![Profile Views](https://komarev.com/ghpvc/?username=htschvl&style=flat-square)
+
 
 **4+ years** building Web3 products  
 **8+ blockchain networks** deployed  
@@ -101,7 +102,7 @@ AI & Automation     →  AI Agents · Python bots · Process automation · On-ch
 **25+ technical artifacts** delivered in a single lending product
 
 </div>
----
+--
 
 <div align="center">
 
