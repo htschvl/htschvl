@@ -95,11 +95,9 @@ AI & Automation     →  AI Agents · Python bots · Process automation · On-ch
 
 
 <img
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=htschvl&layout=compact"
-  alt="Top Languages"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=htschvl&theme=github-dark"
+  width="100%"
 />
-
-
 
 **4+ years** building Web3 products  
 **8+ blockchain networks** deployed  
