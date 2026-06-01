@@ -39,7 +39,7 @@ Open to remote opportunities.
 
 ## What I Do
 
-```
+```text
 Product Ownership   →  0-to-1 builds · PRDs · Technical specs · Backlog · Agile delivery
 Smart Contracts     →  Solidity · ERC-20/721/721A · Diamond (EIP-2535) · Hardhat · Auditing
 Blockchain Infra    →  EVM · Substrate/Polkadot · Fireblocks · Multi-chain deployment
