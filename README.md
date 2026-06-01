@@ -92,10 +92,9 @@ AI & Automation     →  AI Agents · Python bots · Process automation · On-ch
 ## Stats
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=htschvl&layout=compact&theme=tokyonight&hide_border=true"
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=htschvl&layout=compact"
   alt="Top Languages"
 />
-
 ![Profile Views](https://komarev.com/ghpvc/?username=htschvl&style=flat-square)
 
 
