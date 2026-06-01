@@ -37,18 +37,37 @@ Open to remote opportunities.
 
 ---
 
-<div align="center">
+## What I Do
 
-| **Product Ownership** | 0-to-1 builds · PRDs · Technical specs · Backlog · Agile delivery |
-|----------------------|-----------------------------------------------------------|
-| **Smart Contracts**  | Solidity · ERC-20/721/721A · Diamond (EIP-2535) · Hardhat · Auditing |
-| **Blockchain Infra** | EVM · Substrate/Polkadot · Fireblocks · Multi-chain deployment |
-| **DeFi**             | Curve/Balancer bribe strategies · Liquidity governance · On-chain analytics |
-| **Backend**          | Python · Go · TypeScript · Web3.py · REST APIs · Clean Architecture |
-| **AI & Automation**  | AI Agents · Python bots · Process automation · On-chain data pipelines |
+<p align="center">
+  <strong>Product Ownership</strong><br/>
+  <code>0‑to‑1 builds</code> <code>PRDs</code> <code>Technical specs</code> <code>Backlog</code> <code>Agile delivery</code>
+</p>
 
-</div>
----
+<p align="center">
+  <strong>Smart Contracts</strong><br/>
+  <code>Solidity</code> <code>ERC‑20/721/721A</code> <code>Diamond (EIP‑2535)</code> <code>Hardhat</code> <code>Auditing</code>
+</p>
+
+<p align="center">
+  <strong>Blockchain Infra</strong><br/>
+  <code>EVM</code> <code>Substrate/Polkadot</code> <code>Fireblocks</code> <code>Multi‑chain deployment</code>
+</p>
+
+<p align="center">
+  <strong>DeFi</strong><br/>
+  <code>Curve/Balancer bribe strategies</code> <code>Liquidity governance</code> <code>On‑chain analytics</code>
+</p>
+
+<p align="center">
+  <strong>Backend</strong><br/>
+  <code>Python</code> <code>Go</code> <code>TypeScript</code> <code>Web3.py</code> <code>REST APIs</code> <code>Clean Architecture</code>
+</p>
+
+<p align="center">
+  <strong>AI & Automation</strong><br/>
+  <code>AI Agents</code> <code>Python bots</code> <code>Process automation</code> <code>On‑chain data pipelines</code>
+</p>
 
 ## Selected Work
 
