@@ -20,9 +20,9 @@
 
 ## About
 
-I'm a **Technical PM/PO and Blockchain Architect** at the intersection of product strategy and engineering execution — 4+ years shipping production systems across DeFi, stablecoins, tokenization, sovereign app-chains, and TradFi-to-Web3 integrations.
+I'm a **Technical PM/PO and Blockchain Architect** at the intersection of product strategy and engineering execution, 4+ years shipping production systems across DeFi, stablecoins, tokenization, sovereign app-chains, and TradFi-to-Web3 integrations.
 
-My background is technical-first: I started as a developer, which means I don't translate between product and engineering — I operate in both. I write specs that devs execute without back-and-forth, architect smart contract systems from scratch, and own delivery in high-ambiguity environments where there's no one else to close the loop.
+My background is technical-first: I started as a developer, which means I don't translate between product and engineering, I operate in both. I write specs that devs execute without back-and-forth, architect smart contract systems from scratch, and own delivery in high-ambiguity environments where there's no one else to close the loop.
 
 Currently building a tokenization product suite at **RioCryptoHub** &nbsp;·&nbsp; 📍 Rio de Janeiro, Brazil &nbsp;·&nbsp; 
 
