@@ -4,6 +4,16 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=720&lines=Technical+PM+who+actually+ships+code;4%2B+years+building+Web3+in+production;Stablecoins+%E2%80%A2+DeFi+%E2%80%A2+Tokenization+%E2%80%A2+App-Chains;Currently+open+to+new+opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
 
+
+<br/>
+
+<p align="center">
+
+![Open to Work](https://img.shields.io/badge/OPEN_TO_WORK-22c55e?style=for-the-badge&logo=linkedin&logoColor=white)
+
+</p>
+
+
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/htschvl)&nbsp;
@@ -12,16 +22,6 @@
 [![Email](https://img.shields.io/badge/cdmhda%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:cdmhda@gmail.com)&nbsp;
 [![Telegram](https://img.shields.io/badge/@htschvl-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/htschvl)&nbsp;
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5521996963575)&nbsp;
-
-<br/>
-<br/>
-
-<p align="center">
-
-![Open to Work](https://img.shields.io/badge/OPEN_TO_WORK-22c55e?style=for-the-badge&logo=linkedin&logoColor=white)
-
-</p>
----
 
 ## About
 
